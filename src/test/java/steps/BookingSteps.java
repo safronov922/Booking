@@ -15,7 +15,7 @@ import org.testng.Assert;
 
 import java.util.concurrent.TimeUnit;
 
-public class BookingSeps {
+public class BookingSteps {
     WebDriver driver;
     @Before
     public void setUp(){
